@@ -1,0 +1,25 @@
+h1{
+	color: navy;
+	background: yellow;
+	border-color: purple;
+	border-width: 2px;
+	border-style: solid;
+	margin-bottom: 400px;
+}
+
+h6{
+	color: teal;
+	background: black;
+	border-color: red;
+	border-width: 4px;
+	border-style: dashed;
+	padding-top: 100px;
+}
+
+.avocadofan{
+	color: green;
+}
+
+#avocadohater{
+	color: red;
+}
